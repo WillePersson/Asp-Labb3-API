@@ -12,7 +12,7 @@
 ## Connect Person To Interest
 (POST Request) https://localhost:7059/api/Interests/connect
 
-Example Request Body
+Example Request Body<br>
 {<br>
   "personId": 2,<br>
   "interestId": 7<br>
