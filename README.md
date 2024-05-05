@@ -13,18 +13,18 @@
 (POST Request) https://localhost:7059/api/Interests/connect
 
 Example Request Body
-{
-  "personId": 2,
-  "interestId": 7
-}
-Example Response Body
-{
-    "$id": "1",
-    "personId": 2,
-    "person": null,
-    "interestId": 7,
-    "interest": null
-}
+{<br>
+  "personId": 2,<br>
+  "interestId": 7<br>
+}<br>
+Example Response Body<br>
+{<br>
+    "$id": "1",<br>
+    "personId": 2,<br>
+    "person": null,<br>
+    "interestId": 7,<br>
+    "interest": null<br>
+}<br>
 
 ## Add Link To Person/Interest
 (POST Request) https://localhost:7059/api/Links
